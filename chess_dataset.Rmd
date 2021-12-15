@@ -1,6 +1,6 @@
 ---
 title: "Final_Project -- Chess Dataset"
-author: "Kevin"
+author: "Kevin Hou"
 date: "12/12/2021"
 output:
   pdf_document: default
